@@ -1,0 +1,53 @@
+.propia {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 15%;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+
+}
+
+body{
+
+    margin: 0;
+    padding: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.photo-header{
+
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(236, 233, 233);   
+
+}
+
+
+.pie-foto{
+
+    border: 1px solid rgb(236, 233, 233);
+    padding-top: 5px;
+    
+
+}
+.img-size{
+    width: 628px;
+    height: 632px;
+}
+
+.encab{
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
